@@ -1,8 +1,10 @@
 # Comparación A* vs Dijkstra con Replanificación Dinámica
 
+
 Este proyecto implementa una demostración en **MATLAB** para comparar el comportamiento de los algoritmos **A\*** y **Dijkstra** en un entorno tipo almacén con obstáculos estáticos y un obstáculo dinámico que aparece durante la ejecución.
 
 La simulación muestra cómo ambos algoritmos calculan una ruta inicial, cómo el robot comienza a seguirla y cómo se realiza una nueva planificación cuando aparece un obstáculo sobre la trayectoria. Al final, el programa compara métricas como costo de ruta, nodos explorados, tiempo de ejecución y si existió replanificación.
+<img width="1214" height="419" alt="image" src="https://github.com/user-attachments/assets/899b084e-eec4-4afd-b955-e0bc0d0d20a9" />
 
 ## Objetivo del proyecto
 
